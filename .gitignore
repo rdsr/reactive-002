@@ -1,0 +1,15 @@
+**/*.log
+**/.settings/
+**/.worksheet
+**/output/
+**/project/
+*.iml
+*.ipr
+*.iws
+.cache
+.classpath
+.idea/
+.project
+out/
+*.zip
+**/**/target/
